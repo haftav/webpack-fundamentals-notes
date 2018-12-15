@@ -8,10 +8,10 @@
     1. Adding a script tag and src attribute referencing a JS file
     2. Write your JS in your HTML
 - What are the problems with these techniques?
-    - Not scalable (1)
+    - Not scalable 
         - Too many scripts you're trying to load from script tags
         - Can create bottlenecks within the browser
-    - Scripts can become to massive and unmaintainable (2)
+    - Scripts can become too massive and unmaintainable
 - How do we solve these problems?
     - IIFE (Immediately Invoked Function Expressions)
         - Revealing Module Pattern
