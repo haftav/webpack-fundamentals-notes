@@ -1,4 +1,4 @@
-[Table of Contents](../notes.md)
+[Table of Contents](../README.md)
 
 ## 1. Why Webpack
 
