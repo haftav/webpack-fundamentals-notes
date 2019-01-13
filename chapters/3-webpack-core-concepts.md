@@ -107,7 +107,7 @@
         mode,
         output: {
             filename: "bundle.js"
-        },
+            },
         plugins: [new HtmlWebpackPlugin(), new webpack.ProgressPlugin()]
         },
         modeConfig(mode)
