@@ -60,7 +60,7 @@
         }
     ```
 - 80% of webpack is made up of its own plugin system; it's an event-driven architecture
-- Plugins can add additional functionality to bundles by giving access to the powerful CompilerAPI.
+- Plugins can add additional functionality to bundles by giving access to the powerful Compiler API.
 
 ### Webpack Config
 
